@@ -1,0 +1,8 @@
+node_modules/
+.env
+uploads/avatars/*
+!uploads/avatars/.gitkeep
+db/data/users.json
+db/data/datasets.json
+logs/
+*.log
